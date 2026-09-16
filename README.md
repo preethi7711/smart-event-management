@@ -188,3 +188,4 @@ attendees separately from platform user accounts).
 - **Backend-enforced conflict prevention**: room double-booking, speaker
   double-booking, and duplicate check-ins are all rejected at the database/
   controller layer, not just in the UI.
+"# smart-event-management" 
